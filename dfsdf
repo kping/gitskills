@@ -1,0 +1,36 @@
+[33mcommit 577993310be8fe4b3d12f876d49e6ab8afb904ae[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: 0186000213 <0186000213@zwxict.com>
+Date:   Mon Jul 12 16:31:44 2021 +0800
+
+    add merge
+
+[33mcommit 164e777db99d117c9741ad1576a9e5e535a1ea80[m
+Merge: 02238cc 82b0359
+Author: 0186000213 <0186000213@zwxict.com>
+Date:   Mon Jul 12 16:24:34 2021 +0800
+
+    conflict fixed
+
+[33mcommit 02238ccaf802d5f9cbdc4aa5386389fa3e6660a0[m
+Author: 0186000213 <0186000213@zwxict.com>
+Date:   Mon Jul 12 16:22:33 2021 +0800
+
+    & simple
+
+[33mcommit 82b03596e3fab104f131cb2dd6d6d0a8a697378a[m
+Author: 0186000213 <0186000213@zwxict.com>
+Date:   Mon Jul 12 16:21:23 2021 +0800
+
+    AND simple
+
+[33mcommit a3a59876b9adeca4b9cece930cedf4d75ed3f48f[m
+Author: 0186000213 <0186000213@zwxict.com>
+Date:   Mon Jul 12 16:15:54 2021 +0800
+
+    branch test
+
+[33mcommit 7d4fe25368d3e9157cda6f8392b3064e33118096[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kping <pingfu163@163.com>
+Date:   Mon Jul 12 16:06:09 2021 +0800
+
+    Initial commit
